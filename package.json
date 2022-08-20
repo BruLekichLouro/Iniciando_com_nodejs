@@ -1,0 +1,23 @@
+{
+  "name": "servidor1",
+  "version": "1.0.0",
+  "description": "aula inicial de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BruLekichLouro/Iniciando_com_nodejs.git"
+  },
+  "keywords": [
+    "server",
+    "node"
+  ],
+  "author": "Bruna Lekich Louro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BruLekichLouro/Iniciando_com_nodejs/issues"
+  },
+  "homepage": "https://github.com/BruLekichLouro/Iniciando_com_nodejs#readme"
+}
